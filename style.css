@@ -67,7 +67,6 @@
   .back {
     transform: rotateY(180deg);
     background: linear-gradient(to left, #e7e7e7, #ffffff 30%);
-    background-image: url(sis.jpg);
     background-position: center;
     background-size: cover;
 
